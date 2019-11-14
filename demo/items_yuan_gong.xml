@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+<data noupdate='1'>
+    <!-- 员工项目开始-->
+<!-- <record id='item_yuan_gong_001' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_2")' /><field name='name' >张三</field> <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' /> </record> -->
+    <!-- 员工项目结束 -->
+</data>
+</odoo>

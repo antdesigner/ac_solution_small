@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+<data noupdate='1'>
+    <!-- 往来项目开始 -->
+<!-- <record id='item_wang_lai_1008' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_1")' /><field name='name' >新疆大成农业发展有限公司万山红经销部</field> <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' /> </record> -->
+    <!-- 往来项目结束 -->
+    </data>
+</odoo>

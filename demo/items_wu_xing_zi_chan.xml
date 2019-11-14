@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+<data noupdate='1'>
+<!-- 无形资产开始 -->
+<!-- <record id='item_wu_xing_zi_chan_10' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_9")' /><field name='name' >武汉漫画君微信</field> <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' /> </record> -->
+<!-- 无形资产结束 -->
+</data>
+</odoo>

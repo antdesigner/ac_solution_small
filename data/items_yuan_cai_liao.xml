@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+<data noupdate='1'>
+<!-- 原材料开始 -->
+<!-- <record id='item_yuan_cai_liao_12' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_5")' /><field name='name' >酒</field> <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' /> </record> -->
+<!-- 原材料结束 -->
+</data>
+</odoo>

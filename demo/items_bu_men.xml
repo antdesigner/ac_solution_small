@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+        <!-- 部门项目开始 -->
+        <!-- <record id='item_bu_men_16' model='accountcore.item'>
+            <field name='itemClass' eval='ref("accountcore.item_class_3")' />
+            <field name='name' >质量管理部</field>
+            <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' />
+        </record> -->
+        <!-- 部门项目结束 -->
+    </data>
+</odoo>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+<data noupdate='1'>
+<!-- 低值易耗品开始 -->
+<!-- <record id='item_di_zhi_yi_hao_8' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_7")' /><field name='name' >办公用品(低值易耗)</field> <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' /> </record> -->
+<!-- 低值易耗品结束 -->
+</data>
+</odoo>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+<data noupdate='1'>
+<!-- 库存商品开始 -->
+<!-- <record id='item_ku_cun_shang_ping_25' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_6")' /><field name='name' >半成品_蛋糕基础</field> <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' /> </record> -->
+<!-- 库存商品结束 -->
+</data>
+</odoo>

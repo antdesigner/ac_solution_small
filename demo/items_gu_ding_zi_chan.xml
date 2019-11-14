@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+<data noupdate='1'>
+<!-- 固定资产项目开始 -->
+<!-- <record id='item_gu_ding_zi_chan_10' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_8")' /><field name='name' >收银机ss</field> <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' /> </!--> -->
+<!-- 固定资产项目结束 -->
+</data>
+</odoo>

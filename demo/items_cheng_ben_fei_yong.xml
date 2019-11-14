@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+<data noupdate='1'>
+<!-- 成本费用项目开始 -->
+<!-- <record id='item_cheng_ben_fei_yong_1' model='accountcore.item'><field name='itemClass' eval='item_class_4' /><field name='name' >业务招待费</field><field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_3")]' /></record>
+<record id='item_cheng_ben_fei_yong_25' model='accountcore.item'><field name='itemClass' eval='item_class_4' /><field name='name' >折旧 </field><field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_3")]' /></record> -->
+</data>
+<!-- 成本费用项目结束 -->
+</odoo>

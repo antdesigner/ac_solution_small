@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate='1'>
+        <!-- 全局标签开始 -->
+         <record id='glob_tag_1' model='accountcore.glob_tag'>
+            <field name='name' >小规模方案</field>
+            <field name='application' >解决方案模块ac_solution_small_tiger</field>
+            <field name='summary' >标记来自小规模纳税人解决方案模块</field>
+            <field name='glob_tag_class' eval='ref("accountcore.glob_tag_class_5")' />
+        </record>
+    </data>
+    <!-- 全局标签开始结束 -->
+</odoo>

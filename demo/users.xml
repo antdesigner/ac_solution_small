@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+<data noupdate='1'>
+    <!-- 用户开始 -->
+<!-- <record id='user_001' model='res.users'><field name='name' >user1</field><field name='login' >user</field><field name='password' >666666</field></record>
+<record id='user_002' model='res.users'><field name='name' >user2</field><field name='login' >user</field><field name='password' >666666</field></record>
+<record id='user_003' model='res.users'><field name='name' >user3</field><field name='login' >user</field><field name='password' >666666</field></record>
+<record id='user_004' model='res.users'><field name='name' >user4</field><field name='login' >user</field><field name='password' >666666</field></record>
+<record id='user_005' model='res.users'><field name='name' >user5</field><field name='login' >user</field><field name='password' >666666</field></record> -->
+</data>
+    <!-- 用户结束 -->
+</odoo>

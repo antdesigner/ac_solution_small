@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+<data noupdate='1'>
+<!-- 核算机构开始 -->
+     <!-- <record id='org_13' model='accountcore.org'>
+        <field name='number'>13</field>
+        <field name='name'>美味食品(重庆)有限公司渝中分公司</field>
+     <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' /> </record> -->
+    <!-- 核算机构结束 -->
+    </data>
+</odoo>
