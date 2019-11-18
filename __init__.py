@@ -127,7 +127,8 @@ def add_accounts(env, rows):
         else:
             errorRows.append(row)
     if len(errorRows) > 0:
-        raise UserError('/n'.join(errorRows))
+        rl = ['_'.join(e) for e in errorRows]
+        raise UserError('以下科目出错,可能是因为没有上级科目,重复导入或已经存在\n'+'\n'.join(rl))
         # 添加明细科目和核算项目-结束
 
         # 添加期初记录
