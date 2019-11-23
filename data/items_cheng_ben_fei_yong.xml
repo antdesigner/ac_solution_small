@@ -38,6 +38,8 @@
 <record id='item_cheng_ben_fei_yong_29' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_4")' /><field name='name' >印花税</field><field name='glob_tag' eval='[(6, 0, [ref("glob_tag_1")])]' /></record>
 <record id='item_cheng_ben_fei_yong_30' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_4")' /><field name='name' >文化事业建设费</field><field name='glob_tag' eval='[(6, 0, [ref("glob_tag_1")])]' /></record>
 <record id='item_cheng_ben_fei_yong_31' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_4")' /><field name='name' >残疾人就业保障金</field><field name='glob_tag' eval='[(6, 0, [ref("glob_tag_1")])]' /></record>
+<record id='item_cheng_ben_fei_yong_32' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_4")' /><field name='name' >商品维修费</field><field name='glob_tag' eval='[(6, 0, [ref("glob_tag_1")])]' /></record>
+<record id='item_cheng_ben_fei_yong_33' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_4")' /><field name='name' >研究费用</field><field name='glob_tag' eval='[(6, 0, [ref("glob_tag_1")])]' /></record>
 <!-- <record id='item_cheng_ben_fei_yong_1' model='accountcore.item'><field name='itemClass' eval='item_class_4' /><field name='name' >业务招待费</field><field name='glob_tag' eval='[(6, 0, [ref("ac_solution_small.glob_tag_5")]' /></record>
 <record id='item_cheng_ben_fei_yong_25' model='accountcore.item'><field name='itemClass' eval='item_class_4' /><field name='name' >折旧 </field><field name='glob_tag' eval='[(6, 0, [ref("ac_solution_small.glob_tag_5")]' /></record> -->
 </data>
