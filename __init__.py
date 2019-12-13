@@ -18,11 +18,11 @@ ac_do_uninstall = False
 # 安装模块时执行
 # csv格式的文件的完全路径
 org_csv_path = os.path.join(
-    os.path.dirname(__file__)+"./demo/begin/orgs.csv")
+    os.path.dirname(__file__)+"/demo/begin/orgs.csv")
 accounts_csv_path = os.path.join(
-    os.path.dirname(__file__)+"./data/accounts.csv")
+    os.path.dirname(__file__)+"/data/accounts.csv")
 items_csv_path = os.path.join(
-    os.path.dirname(__file__)+"./demo/begin/items.csv")
+    os.path.dirname(__file__)+"/demo/begin/items.csv")
 
 
 def _load(cr, registry):
